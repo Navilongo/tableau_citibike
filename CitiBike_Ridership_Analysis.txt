@@ -1,0 +1,36 @@
+CitiBike - A Review of Ridership
+
+CitiBike is "the nation's largest bike share program", which serves more than "1,300 stations
+across Manhattan, Brooklyn, Queens, the Bronx and Jersey City" (citibikenyc.com).
+
+The task at hand was to utilize the data from the use of the CitiBike program and uncover 
+important ways in which the program may be improved. In this Citibike Ridership story I delved into
+the most popular stations to develop a strategy from which we may continue to provide the best 
+service possible. 
+
+In the first visualization we obseved geographic representations of where the most frequented 
+stations are for both the start of a trip and the end of a trip on a daily basis. This information 
+was essential to developing the following analysis. Our goal is to not only determine who uses 
+the citibike program, but how we can keep it running with minimal incidents to allow our more than 
+20,000 riders enjoy this eco-friendly and efficient mode of transport. 
+
+The following visualization included the names of the top 10 most frequented stations used by
+riders to start their trips as well as the least used locations; these last locations, seeing the 
+lowest amount of traffic, may be reviewed to determine their obsolecence so that we could make 
+better use of our supply. Looking at the top stations, we determined these may be used as key 
+locations used to make upgrades and pick up locations so we may maintain and repair our fleet. 
+
+CitiBike is already an important mode of transportation in the area and must not be disrupted as
+it already constitutes an important tool on which thousands of people rely on daily. Having the
+least amount of negative influence in mind, our next visual representation show us the key times 
+in which we see the maximum amount of ridership. These are key times during which we must ensure 
+the majority of our fleet is active and ready for use. 
+
+Lastly we obseved that the majority of our riders have subscirbed to the service on a monthly basis
+and we can use this information to better market locally rather than encourage tourists and casual
+riders. It is my recommendation that we create promotional materials that would encourage our members
+to report broken down bikes and stations, as well as any parts needing repair. The majority of 
+our ridership happens at the start end end of the business day, which includes our daily commuters and 
+those riders who will rather use our service to enjoy of after-work activities than on ride-share
+programs as are Uber, Lyft or public transport. I propose one of our next analysis and visualizations
+to refer to the comparison of public transport vs. ride-share programs with an emphasis on CitiBike ridership. 
